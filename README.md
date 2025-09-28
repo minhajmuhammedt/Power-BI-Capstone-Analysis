@@ -1,9 +1,9 @@
 # 📊 Power BI – Capstone Analysis
-### 🔎 Overview
+## 🔎 Overview
 
 As part of my Data Analytics course, I worked on a capstone project analyzing anonymized sales data from ShopNest Store, a leading e-commerce platform in Portugal. The goal was to uncover key business insights on sales, deliveries, payments, and customer ratings using Power BI.
 
-### ✨ Key Features
+## ✨ Key Features
 
 Interactive dashboards for sales, logistics, payments, and customer feedback
 
@@ -13,7 +13,7 @@ Delivery performance: on-time vs. delayed orders
 
 Customer satisfaction through ratings distribution
 
-### ⚙️ Methodology
+## ⚙️ Methodology
 
 Data Cleansing: Handled missing/incorrect entries, standardized date formats, and removed duplicates using Power Query
 
@@ -23,12 +23,12 @@ DAX Queries: Created calculated columns and measures (e.g., revenue growth %, av
 
 Visualization: Designed interactive reports with slicers and drill-down features
 
-### 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Power BI (Power Query, DAX, Visualizations)
 
 Excel/CSV files (raw datasets)
 
-### 📌 Conclusion
+## 📌 Conclusion
 
 The final dashboard provided a comprehensive view of business performance, making it easy to track revenue growth, delivery efficiency, and customer satisfaction. It demonstrated expertise in data cleansing, DAX, and dashboard building for business intelligence.
